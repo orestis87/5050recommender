@@ -22,7 +22,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Support
 
-Having trouble with the code? Check out our [Wiki](https://github.com/5050-MovieRecommender/movie-recommender/wiki), create an [issue](https://github.com/5050-MovieRecommender/movie-recommender/issues) and we’ll help you sort it out.
+Having trouble with the code? Check out our [Wiki](https://github.com/orestis87/5050recommender/wiki), create an [issue](https://github.com/orestis87/5050recommender/issues) and we’ll help you sort it out.
 
 ### Contact
 
