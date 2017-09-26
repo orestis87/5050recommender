@@ -18,7 +18,6 @@ Here is my dissertation :
 
 - On ihu.edu.gr: [THE 50/50 RECOMMENDER: PERSONALITY IN MOVIE RECOMMENDER SYSTEMS](https://repository.ihu.edu.gr/xmlui/bitstream/handle/11544/15259/The%2050_50%20Recommender%20System%20Dissertation-Nalmpantis%20Orestis.pdf?sequence=1)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Support
 
